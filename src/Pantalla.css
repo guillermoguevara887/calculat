@@ -1,0 +1,19 @@
+.input {
+    width: 80%;
+    height: 60px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 30px;
+    margin: 30px auto;
+    border-radius: 20px;
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    padding-right: 20px;
+    font-size: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+
+
+
+}
